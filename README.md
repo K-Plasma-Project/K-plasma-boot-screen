@@ -1,4 +1,4 @@
-# K-plasma Boot Screen
+# K-plasma - Boot Screen
 
 A minimalist Plymouth boot animation for KDE Plasma, available in both light and dark variants.
 
